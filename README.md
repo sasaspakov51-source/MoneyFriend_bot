@@ -1,0 +1,2 @@
+# MoneyFriend_bot
+.fbot
